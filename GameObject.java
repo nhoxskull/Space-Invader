@@ -5,7 +5,9 @@ import javafx.geometry.Point2D;
 import javafx.scene.Node;
 import javafx.scene.image.Image;
 import javafx.scene.paint.ImagePattern;
-
+/**
+ * Created by Kim Huynh on 7/14/2017.
+ */
 public abstract class GameObject {
         public boolean alive = true;
         public Node view;
