@@ -8,7 +8,9 @@ import javafx.scene.image.ImageView;
 import javafx.scene.paint.ImagePattern;
 import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
-
+/**
+ * Created by Kim Huynh on 7/14/2017.
+ */
 public class Bullet extends GameObject{
 
     public Bullet(Image img){
