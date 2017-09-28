@@ -9,7 +9,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
 
 /**
- * Created by hoang on 7/14/2017.
+ * Created byKim Huynh hoang on 7/14/2017.
  */
 public class Gift extends GameObject {
 
