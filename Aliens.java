@@ -4,7 +4,9 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.paint.ImagePattern;
 import javafx.scene.shape.Rectangle;
-
+/**
+ * Created by Kim Huynh on 7/14/2017.
+ */
 public class Aliens extends GameObject {
 
     public Aliens(Image img){
